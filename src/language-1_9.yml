@@ -1,0 +1,11 @@
+﻿APPEND_TO_THE_RIGHT_KEY: "§f[§d宝石§f]§c请在背包内右键"
+ADD_CANCEL_PROMPT: "§f[§d宝石§f]§c你取消了本次镶嵌!"
+CAN_NOT_ADD_PROMPT: "§f[§d宝石§f]§c这个物品不能够进行镶嵌."
+CAN_ADD_PROMPT: "§a§l镶嵌成功,§d成功对装备附加:%s"
+ADD_PROMPT_LIST:
+ - "§f[§d宝石§f]§a你正在使用%s"
+ - "§a按E打开背包，鼠标右键点击一件装备来对它镶嵌"
+ - "§a或者右键点击背包空位来取消本次镶嵌"
+FUCK_BAOHUFU: "§c§l旧的宝石已拆除"
+CREATE: "§a合成成功"
+CREATEFAIL: "§c合成失败"

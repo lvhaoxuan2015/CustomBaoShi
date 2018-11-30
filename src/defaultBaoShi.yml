@@ -1,0 +1,45 @@
+0:
+    DisplayName: "§3§l宝石1"
+    Type: COAL
+    Probability: 100
+    Slot: "宝石1"
+    Synthesis: 1
+    SyntheticProbability: 100
+    AddLores:
+     - "GAY: 100%" 
+    Lore:
+     - "§e用法：§a在背包内右键该物品"
+     - "§e作用：§a添加属性"
+     - "§e说明："
+     - "§7  -§a添加:GAY: 100%属性"
+     - "§7  -§a需要插槽:宝石1"
+1:
+    DisplayName: "§3§l宝石2"
+    Type: COAL
+    Probability: 100
+    Slot: "宝石2"
+    Synthesis: 5
+    SyntheticProbability: 90
+    AddLores:
+     - "GAY: 200%" 
+    Lore:
+     - "§e用法：§a在背包内右键该物品"
+     - "§e作用：§a添加属性"
+     - "§e说明："
+     - "§7  -§a添加:GAY: 200%属性"
+     - "§7  -§a需要插槽:宝石2"
+2:
+    DisplayName: "§3§l宝石3"
+    Type: COAL
+    Probability: 100
+    Slot: "宝石3"
+    Synthesis: 10
+    SyntheticProbability: 80
+    AddLores:
+     - "GAY: 300%" 
+    Lore:
+     - "§e用法：§a在背包内右键该物品"
+     - "§e作用：§a添加属性"
+     - "§e说明："
+     - "§7  -§a添加:GAY: 300%属性"
+     - "§7  -§a需要插槽:宝石3"

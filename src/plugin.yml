@@ -1,0 +1,5 @@
+name: CustomBaoShi
+main: custom.baoshi.Main
+version: 1.1
+commands:
+    baoshi:
